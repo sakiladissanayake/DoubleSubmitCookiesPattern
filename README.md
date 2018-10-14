@@ -1,5 +1,5 @@
 # DoubleSubmitCookiesPattern
-A simple web application develop to demonstrate how to use Synchronizer Token Pattern prevent Cross-Site Request Forgery (CSRF).
+A simple web application develop to demonstrate how to use Double Submit Cookies Pattern to prevent Cross-Site Request Forgery (CSRF).
 
 Steps:
 
