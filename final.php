@@ -23,12 +23,12 @@ if(isset($_COOKIE["Details"])){
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Required CSS -->
     <link rel="stylesheet" href="./styles.css">
-    <title>Data End-Point</title>
+    <title>Money Transfer</title>
   </head>
 
   <body>
-    <label><?php echo $_SESSION['status']; ?></label>
+    <label><h3><?php echo $_SESSION['status']; ?></h3></label>
     <label><br>Account Number : <?php echo $accountnumber ?></label>
-    <label><br><br>Amount : <?php echo $amount ?></label>
+    <label><br>Amount : <?php echo $amount ?></label>
   </body>
 </html>
