@@ -10,3 +10,5 @@ Steps:
 3.Clone this project folder and save it inside this folder - C:\xampp\htdocs\
 
 4.Open the browser and type http://localhost/DoubleSubmitCookiesPattern/login.php
+
+For more information check the blog post - https://techgear17.blogspot.com/2018/10/double-submit-cookies-pattern.html
